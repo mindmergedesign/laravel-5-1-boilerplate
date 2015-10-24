@@ -1,4 +1,4 @@
-# laravel-5-1-boilerplate
+# laravel 5.1 boilerplate
 A simple base Laravel 5.1 project using bootstrap.
 
 #Install
@@ -36,15 +36,9 @@ A simple base Laravel 5.1 project using bootstrap.
 * home : /resources/views/home.blade.php
 
 #Passwrod recovery
-You can to setup your email credentials to use this feature
-by looking the official  [Laravel 5.1 mail documentation](http://laravel.com/docs/5.1/mail).
+To setup your email credentials, look at the official  [Laravel 5.1 mail documentation](http://laravel.com/docs/5.1/mail).
 please specify email and sender name on the .env file
 `
 SENDER_NAME=noreply
 SENDER_ADDRES=no@reply.com
 `
-
-#Important! 
-Issue report and pull requests are welcome!
-
-I like to invite you to visit my website on [Jefferochoa.com.ve](http://jefferochoa.com.ve)
